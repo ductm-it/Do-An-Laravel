@@ -1,0 +1,23 @@
+Chức năng homepage:
+•	Chat
+•	Đăng nhập, đăng ký
+•	Tìm kiếm
+•	Hiển thị tất cả sản phẩm
+1.	Đặt hàng
+2.	Tính tổng tiền
+3.	Hiển thị thông tin sản phẩm đã chọn 
+2.	Hiển thị sản phẩm theo category
+2.	Hiển thị chi tiết sản phẩm
+
+TRANG SENDEMAIL
+Chức năng 
+1.	Hiển thị sản phẩm đã chọn, hiển thị tổng tiền
+2.	Nhập thông tin nhận hàng 
+3.	Gửi email xác nhận đơn hàng 
+
+
+TRANG ADMIN
+-	-Staff Management (thêm staff, xóa, xem thêm, tìm kiếm)
+-	-User Management (thêm user, xóa, xem thêm, tìm kiếm)
+-	-Product Management (Thêm product, xóa, xem thêm, tìm kiếm)
+-	-Category Management (Thêm category, xem thêm, tìm kiếm )
